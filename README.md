@@ -6,8 +6,9 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub profile. I am an enthusiastic engineer passionate about **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **IoT**. Also, I have an interest in  **Game, VR & AR experiences**. My projects span from building with AI to creating immersive applications. I strive to solve complex problems with cutting-edge technologies, delivering impactful solutions that bridge creativity and innovation.
+I am an enthusiastic engineer passionate about **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **IoT**, as well as **Game Development**, **Virtual Reality**, and **Augmented Reality experiences**. My projects span from building impactful AI-driven solutions to creating immersive applications that bridge creativity and innovation. 
 
+In addition to my technical expertise, I am deeply committed to education and social transformation. As part of my role in the EdTech sector with **Kodland**, I have supported over 200 students across multiple groups, teaching them programming, game development, and emerging technologies like AI and web development. I believe education is a powerful tool to generate meaningful change, and I strive to inspire others to harness technology for personal growth and societal impact.
 ---
 
 ## 🚀 Highlighted Projects
@@ -68,12 +69,12 @@ A project focused on stock trend prediction using **ARIMA models** for time-seri
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### AI Topics:
-- Deep Learning
-- Neural Networks
-- Reinforcement Learning
-- Robotics
-- Natural Language Processing (NLP)
-- Artificial Vision
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-5C2D91?style=for-the-badge&logo=python&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-0078D7?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Natural Language Processing (NLP)](https://img.shields.io/badge/NLP-43853D?style=for-the-badge&logo=numpy&logoColor=white)
+![Artificial Vision](https://img.shields.io/badge/Artificial%20Vision-1C1E24?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Science Software:
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -95,7 +96,9 @@ A project focused on stock trend prediction using **ARIMA models** for time-seri
 
 ## 🎯 My Mission
 
-To create innovative solutions that blend **intelligence and creativity**. Whether building smarter IoT systems, analyzing data for machine learning, or crafting video games with VR/AR experiences, I aim to deliver impactful projects that make a difference. 🛰️ I'm passionate about generating social transformation through technology and education, and I seek to promote this awareness in Latin America. 🙏
+To create innovative solutions that blend **intelligence and creativity**. Whether building smarter IoT systems, analyzing data for machine learning, or crafting video games with VR/AR experiences, I aim to deliver impactful projects that make a difference. 🛰️ 
+
+I'm passionate about leveraging **technology and education** to foster social transformation. My goal is to promote awareness of technology's potential in **Latin America**, empowering communities and individuals to innovate and thrive. 🙏
 
 ---
 
@@ -105,13 +108,13 @@ I am constantly working on new ideas and projects. Stay tuned for:
 - Advanced **AI-driven models** for real-time applications.
 - Innovative **Video games & VR/AR experiences**.
 - IoT systems for **smart cities, smart homes, and entrepreneurship.**.
+- Education, technology, and human-centered innovation for **emerging startups and impactful projects**.
 
 ---
 
 ## 🤝 Let's Connect!
 
 - **LinkedIn**: [Lorenz Pulgar](https://www.linkedin.com/in/lorenzpulgar/)
-- **Portfolio Website**: *Coming Soon*
 - **Contact Me**: lorenzpulgar@gmail.com
 
 ---
