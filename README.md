@@ -9,6 +9,7 @@
 I am an enthusiastic engineer passionate about **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **IoT**, as well as **Game Development**, **Virtual Reality**, and **Augmented Reality experiences**. My projects span from building impactful AI-driven solutions to creating immersive applications that bridge creativity and innovation. 
 
 In addition to my technical expertise, I am deeply committed to education and social transformation. As part of my role in the EdTech sector with **Kodland**, I have supported over 200 students across multiple groups, teaching them programming, game development, and emerging technologies like AI and web development. I believe education is a powerful tool to generate meaningful change, and I strive to inspire others to harness technology for personal growth and societal impact.
+
 ---
 
 ## 🚀 Highlighted Projects
