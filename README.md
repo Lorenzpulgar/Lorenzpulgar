@@ -108,7 +108,7 @@ I'm passionate about leveraging **technology and education** to foster social tr
 I am constantly working on new ideas and projects. Stay tuned for:
 - Advanced **AI-driven models** for real-time applications.
 - Innovative **Video games & VR/AR experiences**.
-- IoT systems for **smart cities, smart homes, and entrepreneurship.**.
+- IoT systems for **smart cities, enhance smart homes, and support innovative companies**.
 - Education, technology, and human-centered innovation for **emerging startups and impactful projects**.
 
 ---
