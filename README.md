@@ -74,7 +74,7 @@ A project focused on stock trend prediction using **ARIMA models** for time-seri
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-5C2D91?style=for-the-badge&logo=python&logoColor=white)
-![Natural Language Processing (NLP)](https://img.shields.io/badge/NLP-43853D?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-43853D?style=for-the-badge&logo=numpy&logoColor=white)
 ![Artificial Vision](https://img.shields.io/badge/Artificial%20Vision-1C1E24?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Web & API Development:
