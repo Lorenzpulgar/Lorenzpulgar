@@ -54,15 +54,13 @@ A project focused on stock trend prediction using **ARIMA models** for time-seri
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### Web Development:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Generative AI & Orchestration:
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge)
 
 ### Machine/Deep Learning:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -72,29 +70,39 @@ A project focused on stock trend prediction using **ARIMA models** for time-seri
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### AI Topics:
+### Advanced AI Topics:
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-5C2D91?style=for-the-badge&logo=python&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-0078D7?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Natural Language Processing (NLP)](https://img.shields.io/badge/NLP-43853D?style=for-the-badge&logo=numpy&logoColor=white)
+![Natural Language Processing (NLP)](https://img.shields.io/badge/NLP-43853D?style=for-the-badge)
 ![Artificial Vision](https://img.shields.io/badge/Artificial%20Vision-1C1E24?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Web & API Development:
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### IoT & Robotics:
+![Robotics](https://img.shields.io/badge/Robotics-0078D7?style=for-the-badge&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-0078D7?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry-Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![PIC Microcontrollers](https://img.shields.io/badge/PIC-Microcontroller-3776AB?style=for-the-badge&logo=microchip&logoColor=white)
+
+### Game & Immersive Development:
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox-Studio-D8DEE9?style=for-the-badge&logo=roblox&logoColor=black)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 
 ### Science Software:
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Comsol Multiphysics](https://img.shields.io/badge/Comsol-Multiphysics-FF6600?style=for-the-badge&logo=comsol&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-3776AB?style=for-the-badge&logo=proteus&logoColor=white)
-
-### IoT Development:
-![ESP32](https://img.shields.io/badge/ESP32-0078D7?style=for-the-badge&logo=esp32&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry-Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![PIC Microcontrollers](https://img.shields.io/badge/PIC-Microcontroller-3776AB?style=for-the-badge&logo=embedded&logoColor=white)
-
-### Game Development:
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox-Studio-D8DEE9?style=for-the-badge&logo=roblox&logoColor=black)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-3776AB?style=for-the-badge)
 
 ---
 
