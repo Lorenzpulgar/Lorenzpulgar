@@ -16,6 +16,9 @@ In addition to my technical expertise, I am deeply committed to education and so
 
 Here are some of my most relevant projects that showcase my skills and interests:
 
+### 🟢 [NexusDev-AI-RAG-Agent](https://github.com/Lorenzpulgar/NexusDev-AI-RAG-Agent)
+A sophisticated **AI Orchestrator** using **LangGraph** and **RAG** that intelligently routes queries between **internal documentation** and **live web research**. Ideal for technical onboarding and automated software architecting.
+
 ### 🟢 [Forecast-model-with-SARIMA-for-stocks-investment](https://github.com/Lorenzpulgar/Forecast-model-with-SARIMA-for-stocks-investment)
 A machine learning project predicting **Nasdaq trends** using SARIMA models. Ideal for financial analysis and investment forecasting.
 
