@@ -18,6 +18,12 @@
 
 Here are some of my most relevant projects that showcase my skills and interests:
 
+### 🟢 [Astraea-MultiAgent-RAG](https://github.com/Lorenzpulgar/astraea-multiagent-rag)
+A scalable **Multi-Agent RAG framework** orchestrating autonomous LLM workflows via **LangGraph**. Features dynamic tool routing, asynchronous execution, and persistent memory for complex cognitive tasks and intelligent document retrieval.
+
+### 🟢 [Chronos-Edge-Transformer](https://github.com/Lorenzpulgar/chronos-edge-transformer)
+A custom **Transformer architecture** built from scratch for **Edge IoT telemetry**. Optimized with **FlashAttention-2 (SDPA)** and **Automatic Mixed Precision (AMP)** for high-performance, low-latency anomaly detection in constrained environments.
+
 ### 🟢 [NexusDev-AI-RAG-Agent](https://github.com/Lorenzpulgar/NexusDev-AI-RAG-Agent)
 A sophisticated **AI Orchestrator** using **LangGraph** and **RAG** that intelligently routes queries between **internal documentation** and **live web research**. Ideal for technical onboarding and automated software architecting.
 
